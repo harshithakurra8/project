@@ -1,0 +1,1 @@
+PowerShell  -NoProfile -ExecutionPolicy ByPass - Command"&'C:\Users\AIFA USER\Documents\GitHub\project\project\script.ps1'"

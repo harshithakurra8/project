@@ -1,0 +1,1 @@
+python.exe C:\Users\AIFA USER\DOCUMENTS\GitHub\project\project
